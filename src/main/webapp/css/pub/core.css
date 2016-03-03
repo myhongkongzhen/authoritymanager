@@ -1,0 +1,250 @@
+.thumbnail img {
+	width: 160px;  /*230*/
+	height: 146px;/*152*/
+}
+
+.clsImg {
+	padding-top: 300px;
+}
+
+.imgAttr {
+	position: absolute;
+	height: 225px;
+	width: 300px;
+	border: 1px solid #ccc;
+	margin-left: 135px;
+	display: none;
+}
+
+.modal-dialog{
+	width:55%;
+	margin:30px auto
+}
+
+.thumbnail {
+	margin-bottom: 0px !important;
+	display: block;
+	padding: 4px;
+	line-height: 1.428571429;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	-webkit-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out
+}
+
+.gallery-masonry {
+margin: 0 auto;
+width: 80%;
+}
+
+.img-fonttxt{
+font-size: 15px;
+color: rgb(26, 152, 137);
+}
+
+.onColorTr{
+ color:red;
+ font-weight:600;
+ background-color: rgb(239, 244, 247) !important;
+}
+
+.fontColor{
+	color:rgb(243, 65, 34);
+	font-weight:600;
+	max-width:150px;
+}
+
+.msgColor{
+    color: #fd392f;
+	font-weight:600;
+	max-width:300px;
+}
+
+.dtree a ,div {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #666;
+/*white-space: nowrap;*/
+}
+
+.onColor{	
+border-left: 1px solid rgba(82, 168, 236, 0.8);
+border-right: 1px solid rgba(82, 168, 236, 0.8);
+border-bottom: 1px solid rgba(82, 168, 236, 0.8);
+}
+
+#header {
+height: 80px;
+position: relative;
+width: 100%;
+z-index: 0;
+}
+
+body[data-color="grey"] #user-nav > ul {
+border-left: 1px solid #625C5C;
+text-shadow: 0px 0px 0 #ACBCFC;
+}
+body[data-color="grey"] #user-nav > ul > li {
+border-right: 1px solid #625C5C;
+}
+
+
+.stat-boxes .right strong {
+display: block;
+font-size: 20px;
+margin-bottom: 3px;
+margin-top: 6px;
+}
+
+.stat-boxes .right {
+font-size: 12px;
+padding: 9px 10px 7px 0;
+text-align: center;
+width: auto;
+color: #666666;
+}
+
+.lableControl{
+	margin-left: 15px;
+    color:rgb(106, 120, 186);
+	font-weight:600;
+	max-width:150px;
+}
+
+.form-group-task {
+border-top: 1px solid #ffffff;
+border-bottom: 1px solid #DFDDDD;
+}
+
+.gritter-item {
+display: block;
+background: #ECECEC;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#545454', endColorstr='#232323',GradientType=0 );
+color: #FFFDFD;
+padding: 7px 10px 10px;
+font-size: 11px;
+font-family: verdana;
+border: 1px solid #E5E4E4;
+}
+
+.gritter-title {
+font-size: 12px;
+font-weight: bold;
+padding: 0 0 7px 0;
+display: block;
+text-shadow: 0px 1px 0 #ECE9EA;
+}
+
+#gritter-notice-wrapper {
+position: fixed;
+top: 50px;
+right: 10px;
+width: 240px;
+z-index: 989;
+}
+
+.gritter-with-image {
+width: 170px;
+float: right;
+}
+
+
+.stat-boxes li, .quick-actions li, .quick-actions-horizontal li {
+border: 1px solid #d5d5d5;
+border-radius: 4px 4px 4px 4px;
+-webkit-box-shadow: 0 1px 0 0 #FFFFFF inset, 0 1px 0 rgba(255,255,255,0.4);
+box-shadow: 0 1px 0 0 #FFFFFF inset, 0 1px 0 rgba(255,255,255,0.4);
+display: inline-block;
+line-height: 18px;
+margin: 0 3px 3px;
+padding: 0 3px;
+
+/* 
+margin: 0 10px 10px;
+padding: 0 10px;
+*/
+}
+
+.site-stats li small {
+margin-left: 5px;
+font-size: 12px;
+color: #888888;
+font-style: inherit;
+}
+
+.col-margin-right{
+  display: block;
+  text-align: right;
+}
+.col-margin{
+	margin-left: 10px !important;
+}
+.col-margin-20{
+	margin-left: 20px !important;
+}
+.col-margin-25{
+	margin-left: 25px !important;
+}
+.col-margin-30{
+	margin-left: 30px !important;
+}
+.col-margin-p15{
+	margin-left: 15% !important;
+}
+.widget-box-margin-top{
+margin-top: -5px;
+}
+
+.col-td-margin-50{
+	margin-left: 50px !important;
+}
+.col-td-margin-30{
+	margin-left: 30px !important;
+}
+
+.textWidth{
+	width: 95%;
+}
+
+.sliderWidth{
+	width: 20%;
+}
+
+#weightLabel {
+color: #f6931f;
+font-weight: bold;
+}
+.white-space{
+white-space: nowrap;
+}
+
+.td-text{
+	height:40px;
+    width:80px;  
+    word-break:keep-all;/* ������ */  
+white-space:no-wrap;
+    overflow:hidden;/* ���ݳ������ʱ���س������ֵ����� */  
+    text-overflow:ellipsis;
+/*
+white-space:no-wrap;
+text-overflow:ellipsis;
+overlfow:hidden;
+width:50px;
+*/
+}
+
+
+.myAlert-dialog{
+	width:30%;
+}
+
+.upload-progress{ height: 4px; font-size: 0; line-height: 4px; background: orange; width: 0;}
+
+.index-btn-margin-p3{
+	margin-right: 3% !important;
+}
+
+.required{
+	  color: red !important;
+}

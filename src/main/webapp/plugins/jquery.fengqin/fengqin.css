@@ -1,0 +1,73 @@
+strong{font-weight:bold;}
+/*yaheiText*/
+.yaheiText15{display:block;width:70px;height:16px;overflow:hidden;background:url(../images/sIcons.png) 0 -282px no-repeat;}
+.yaheiText54{display:block;width:98px;height:17px;overflow:hidden;background:url(../images/sIcons.png) -0px -576px no-repeat;}
+/*foldList*/
+.foldList li{border-bottom:1px solid #e7e7e7;padding:0 14px;_width:742px;_overflow:hidden;list-style:none}
+.foldList li.last{border:none;}
+.foldList li h5{
+ font-weight: bold;
+  height: 40px;
+  position: relative;
+  color: #3498DB;
+  font-size: 14px;
+  cursor: pointer;
+  line-height: 40px;
+  text-indent: 26px;
+	}
+.foldContent{border-left:3px solid #018ccb;padding:10px 26px;border-top:1px dashed #e2e2e2;line-height:2em;background:#f3f3f3;color:#888;margin-bottom:5px;}
+
+/*formList*/
+.formList label{display:inline-block;width:75px;height:27px;overflow:hidden;line-height:27px;font-size:14px;margin-right:40px;*margin-right:37px;float:left;text-align:right;}
+.formList label b{color:#ff0000;float:left;font:normal 12px/27px "宋体";}
+.formList input{width:425px;height:27px;line-height:27px;}
+.formList li{height:63px;width:550px;}
+.formList li .alert{margin:10px 10px 0 0;float:right;}
+.formList li textarea{width:405px;height:110px;_float:left;border:none;resize:none;font-size:12px;padding:10px;}
+.formList li select{border:1px solid #ccc;position:relative;top:4px;}
+
+#container{margin-top:32px;}
+#menu{width:188px;float:left;}
+#menu dl{border:1px solid #e5e5e5;padding-bottom:17px;margin-bottom:20px;}
+#menu dl dt{padding:0 20px;border-bottom:1px solid #e5e5e5;color:#666;height:28px;font:bold 14px/28px "宋体";margin-bottom:17px;background:#f9f9f9}
+#menu dl dd{width:164px;padding:0 12px;height:29px;font:normal 12px/29px "宋体";margin-bottom:7px;}
+#menu dl dd a{display:block;color:#757575;text-indent:8px;}
+#menu dl dd a:hover{color:#018ccb}
+#menu dl dd a.current{background:url(../images/buttons.png) 0 -244px no-repeat;font-weight:bold;color:#018ccb}
+#joinUsDD{position:relative}
+#joinUsDD a{color:#ff9900!important;}
+#joinUsDD .UI-orangeArrow{position:absolute;right:105px;top:9px;}
+
+#questions{margin-left:28px;width:772px;float:left;}
+#questions h2{position:relative;height:30px;background:#f3f3f3;color:#555;line-height:30px;text-indent:35px;}
+#questions h2 .UI-home{position:absolute;left:14px;top:7px;}
+#questionList{border:1px solid #e7e7e7;padding-top:14px;margin-top:20px;}
+#questionList a{color:#FFA012}
+#questionList a:hover{text-decoration:underline;}
+#questionList li h5 .UI-ask,#questionList li h5 .UI-bubble{position:absolute;left:0px;top:9px;}
+
+#feedback .borderTabHead .borderTab{width:70px;left:56px;}
+#feedbackContent{margin:0 auto;width:540px;margin-top:40px;}
+#feedbackContent .buttonGroup{text-align:center;margin:37px 0 0 110px;}
+
+#cooperation{width:700px;background:#fff;padding:10px 10px 20px 0px;margin:20px 20px 0px 0px;position:relative;_top:20px;zoom:1;}
+#cooperation h2{height:40px;line-height:40px;margin-bottom:28px;border-bottom:1px solid #ccc;}
+#cooperation h2 .title{font-size:16px;}
+#cooperation .formList{margin-left:30px;}
+#cooperation a{color:#008ccb;}
+#cooperation a:hover{text-decoration:underline;}
+#cooperation .closeBtn{position:absolute;right:-20px;top:-20px;}
+#cooperation .borderTabHead{padding-left:170px;}
+#cooperation .borderTabHead .borderTab{width:98px;left:56px;}
+#cooperationContent{margin:0 auto;width:600px;}
+#cooperationContent .buttonGroup{text-align:center;margin:37px 0 0px 110px;}
+#checkSite{background:#f1f8fd;border:1px dashed #bcdffa;position:relative;width:400px;margin:10px 0 0px 115px;padding:10px 10px 0 10px; }
+#checkSite p{line-height:2.5em;height:2.5em;}
+#checkSite a{color:#ff6600;}
+#checkSite .UI-orangeClose{position:absolute;top:5px;right:8px;}
+#checkSite .UI-download{margin-left:6px;vertical-align:middle;}
+#step2{margin:20px auto 35px;width:671px}
+#step2 p{margin-top:15px;}
+
+
+
