@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**************************************************************************
  * <pre>
- *     FileName: zzwu.std.authority.web.controller.DemoController
+ *     FileName: DemoController
  *         Desc:
  *       author: Z_Z.W - myhongkongzhen@gmail.com
  *      version: 2016-3-3 11:44
